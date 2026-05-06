@@ -8,6 +8,7 @@
 
 ![Mikael GitHub stats](https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats-swart-two-43.vercel.app/api/top-langs/?username=devnevess&hide_progress=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
