@@ -6,7 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
 
 
-![Mikael GitHub stats](https://github-readme-stats.vercel.app/api?username=devnevess&show_icons=true&theme=dracula)
+![Mikael GitHub stats](https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=dracula)
+
 
 ## Tecnologias que eu uso no meu dia
 
