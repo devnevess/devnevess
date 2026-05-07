@@ -20,3 +20,5 @@
   <img width="49%" src="https://streak-stats.demolab.com/?user=devnevess&theme=dracula" />
    <img width="46%" src="https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=dracula" />
 </p>
+
+![snake animation](https://github.com/devnevess/devnevess/blob/output/github-contribution-grid-snake2.svg)
