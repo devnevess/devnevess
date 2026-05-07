@@ -21,6 +21,6 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-swart-two-43.vercel.app/api/top-langs/?username=devnevess&hide_progress=true&theme=dracula" />
+  <img width="50%" src="https://github-readme-stats-swart-two-43.vercel.app/api/top-langs/?username=devnevess&hide_progress=true&theme=dracula" />
   <img width="46%" src="https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=dracula" />
 </p>
