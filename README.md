@@ -21,4 +21,6 @@
    <img width="46%" src="https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=dracula" />
 </p>
 
-![snake animation](https://github.com/devnevess/devnevess/blob/output/github-contribution-grid-snake2.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devnevess/devnevess/output/github-contribution-grid-snake-dark.svg" />
+</p>
