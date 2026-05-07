@@ -17,10 +17,6 @@
 
 ## Estatísticas
 <p align="center">
-  <img width="89%" src="https://streak-stats.demolab.com/?user=devnevess&theme=dracula" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats-swart-two-43.vercel.app/api/top-langs/?username=devnevess&hide_progress=true&theme=dracula" />
-  <img width="46%" src="https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=dracula" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=devnevess&theme=dracula" />
+   <img width="46%" src="https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=dracula" />
 </p>
