@@ -10,10 +10,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
 
 ## Tecnologias que uso e estudo
-[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,ansible,js,html,css,git,github)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,py,mysql,ansible,js,html,css,git,github)
 
 ## IDEs e Criação
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,obsidian)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,obsidian)
 
 ## Estatísticas
 <p align="center">
