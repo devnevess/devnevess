@@ -23,9 +23,11 @@
 </p>
 -->
 
-<img width="100%" src="https://github-readme-streak-stats-taupe-psi.vercel.app/?user=devnevess&theme=dark&locale=pt_BR" alt="GitHub Streak" />
-
-
+<!-- Streak -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/devnevess/devnevess/output/github-contribution-grid-snake-dark.svg" />
+    <img width="85%" src="https://github-readme-streak-stats-taupe-psi.vercel.app/?user=devnevess&theme=dark&locale=pt_BR" alt="GitHub Streak" />
 </p>
+
+<!-- Snake -->
+<img width="100%" src="https://raw.githubusercontent.com/devnevess/devnevess/output/github-contribution-grid-snake-dark.svg" />
+
