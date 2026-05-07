@@ -16,11 +16,16 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,obsidian)
 
 ## Estatísticas
+<!--
 <p align="center">
     <img width="49%" src="https://github-readme-streak-stats-taupe-psi.vercel.app/?user=devnevess&theme=dracula" />
    <img width="46%" src="https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=dracula" />
 </p>
+-->
+
+<img width="100%" src="https://github-readme-streak-stats-taupe-psi.vercel.app/?user=devnevess&theme=dark&locale=pt_BR" alt="GitHub Streak" />
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devnevess/devnevess/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/devnevess/devnevess/output/github-contribution-grid-snake-dark.svg" />
 </p>
