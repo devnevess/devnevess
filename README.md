@@ -8,6 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaelnevess/)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+
+<!-- Acrescentar mais tarde -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-FF0069.svg?style=for-the-badge&logo=LeetCode&logoColor=white)]()
 
 
