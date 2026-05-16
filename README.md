@@ -25,7 +25,7 @@
 <!-- Streak and Stats -->
 <p align="center">
     <img width="49%" src="https://github-readme-streak-stats-taupe-psi.vercel.app/?user=devnevess&theme=dark&locale=pt_BR" alt="GitHub Streak" />
-    <img width="46%" src="https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=highcontrast" />
+   <!-- <img width="46%" src="https://github-readme-stats-swart-two-43.vercel.app/api?username=devnevess&show_icons=true&theme=highcontrast" /> -->
 </p>
 
 <!-- Snake -->
